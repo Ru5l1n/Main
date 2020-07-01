@@ -50,6 +50,6 @@
     и мы с нетерпением ожидаем продолжения улучшения D&D для будущих поколений.    <br><br>
     <br><br>
     <br> <div align="center"><a href="https://hobbygames.ru/dungeons-and-dragons"><img src="DNDshss.png"></a></div>
-    Администратор: <a href="https://vk.com/pra1710"><img src="змей.png"></a></a>
+    Администратор: [https://vk.com/pra1710"]</a>
 </body>
 </html>
